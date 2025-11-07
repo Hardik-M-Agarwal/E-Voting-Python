@@ -11,7 +11,7 @@ This project reimagines the voting process by leveraging **Python (Tkinter, Flas
 ### 🔐 Secure Login System
 - Role-based login: **Voter**, **Admin**, and **Super Admin**
 - CAPTCHA integration for bot prevention
-- Optional **Face Recognition** using OpenCV for biometric login
+- **Face Recognition** using OpenCV for biometric login
 - Multi-factor authentication with security questions
 
 ### 🧑‍⚖️ Admin Controls
